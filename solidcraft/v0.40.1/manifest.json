@@ -1,0 +1,15 @@
+{
+  "source": "https://github.com/tangency-labs/solidcraft/releases/tag/v0.40.1",
+  "wasm_sha256": "0a3a29aa4a9582bcf5036b8acb8c50748d760eb639a0f40ce5d303150b9d34b8",
+  "gzip_sha256": "95b984390f3ccd53727f7814a3e7fbe5ded11b1ddda30e333387b99d0a64a5e2",
+  "gzip_bytes": 50699829,
+  "parts": [
+    "engine.gz.part00",
+    "engine.gz.part01",
+    "engine.gz.part02",
+    "engine.gz.part03",
+    "engine.gz.part04",
+    "engine.gz.part05",
+    "engine.gz.part06"
+  ]
+}
